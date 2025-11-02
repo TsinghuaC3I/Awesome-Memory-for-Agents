@@ -29,7 +29,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Application               | Memory Content                                               | Description                                          |
 | :------------------------ | :----------------------------------------------------------- | :--------------------------------------------------- |
-| Personalization           | User profiles, interaction history, facts, etc.              | Continuous personalized interaction                  |
+| Personalization           | User profiles, interaction history, facts, etc.              | Continuous personalized interaction,mainly targeting the conversion scenario and using an external memory pool with retrieval-based memory interaction |
 | Learning from Experience  | Trajectories, success/failure lessons, reusable skills, etc. | Cross-task experience accumulation & transfer        |
 | Long-horizon Agentic Task | Intermediate steps, reasoning traces                         | Context management within a single long-horizon task |
 
