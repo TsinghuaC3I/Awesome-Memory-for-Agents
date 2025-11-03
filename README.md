@@ -22,18 +22,18 @@ This repository provides a curated list of papers on agent memory, structured by
 - **Short-Term Memory:** Transient information managed within the context window for a single task;
 - **Long-Term Memory:** Persistent information stored externally across tasks.
 
-Within *Long-Term Memory*, we further distinguish based on its reliance on task success/failure for curation:
+Within *Long-Term Memory*, we further distinguish based on its reliance on task outcomes (success/failure) for curation:
 
-- **Memory (for Personalization)** denotes information without reference to task success/failure;
-- **Experience (for Learning)** involves knowledge explicitly curated through task success/failure.
+- **Experience** involves knowledge explicitly validated by task outcomes.
+- **Memory** denotes information without reference to task outcomes;
 
 This taxonomy maps directly to the three primary application scenarios that organize the papers in this repository:
 
-| Application               | Memory Content                                               | Description                                          |
-| :------------------------ | :----------------------------------------------------------- | :--------------------------------------------------- |
-| Personalization           | User profiles, interaction history, facts, etc.              | Continuous personalized interaction, mainly targeting the conversation scenario and using an external memory pool with retrieval-based memory interaction |
-| Learning from Experience  | Trajectories, success/failure lessons, reusable skills, etc. | Cross-task experience accumulation & transfer        |
-| Long-horizon Agentic Task | Intermediate steps, reasoning traces                         | Context management within a single long-horizon task |
+| Application               | Memory Content                                                           | Description                                                                                                                                               |
+| :------------------------ | :----------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personalization           | User profiles, interaction history, facts, etc.                          | Continuous personalized interaction, mainly targeting the conversation scenario and using an external memory pool with retrieval-based memory interaction |
+| Learning from Experience  | Trajectories, success/failure lessons, reusable skills, etc.             | Cross-task experience accumulation & transfer                                                                                                             |
+| Long-horizon Agentic Task | Intermediate results, reasoning traces, environmental observations, etc. | Context management within a single long-horizon task via summarization, reflection, or scratchpad, etc.                                                   |
 
 ## Paper List
 
