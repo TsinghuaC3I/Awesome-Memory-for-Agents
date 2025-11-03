@@ -1,5 +1,7 @@
 # Awesome-Memory-for-Agents
 
+The paper list is maintained by Hongyi Liu, Yu Fu, Kaiyan Zhang, contributed by Yuxin Zuo, Che Jiang, Guoli Jia, Yuru Wang, Kaikai Zhao, Yuchen Fan, Zhenzhao Yuan, Kai Tian, Weizhi Wang.
+
 ## Table of Contents
 
 - [Awesome-Memory-for-Agents](#awesome-memory-for-agents)
