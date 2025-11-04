@@ -91,7 +91,6 @@ This taxonomy maps directly to the three primary application scenarios that orga
 |:------:|:------|:------:|
 | 2025-10 | Alita-G: Self-Evolving Generative Agent for Agent Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.23601) |
 | 2025-10 | Dyna-Mind: Learning to Simulate from Experience for Better AI Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.09577) |
-| 2025-10 | Agentic Context Engineering: Learning Comprehensive Contexts for Self-Improving Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.04618) |
 | 2025-10 | LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.04851) |
 | 2025-10 | The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.07091) |
 | 2025-10 | Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.04618) |
