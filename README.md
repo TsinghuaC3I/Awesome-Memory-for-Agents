@@ -2,9 +2,14 @@
 
 The paper list is maintained by Hongyi Liu, Yu Fu, Kaiyan Zhang, contributed by Yuxin Zuo, Che Jiang, Guoli Jia, Yuru Wang, Kaikai Zhao, Yuchen Fan, Zhenzhao Yuan, Kai Tian, Weizhi Wang.
 
+<div align="center">
+    <img src="assets/cover.png" width=60%>
+</div>
+
 ## Table of Contents
 
 - [Awesome-Memory-for-Agents](#awesome-memory-for-agents)
+    - [Table of Contents](#table-of-contents)
     - [Overview](#overview)
     - [Paper List](#paper-list)
         - [Application](#application)
@@ -13,7 +18,7 @@ The paper list is maintained by Hongyi Liu, Yu Fu, Kaiyan Zhang, contributed by 
             - [Long-horizon Agentic Task](#long-horizon-agentic-task)
         - [Survey](#survey)
         - [Benchmark](#benchmark)
-        - [Product \& Project](#product--project)
+        - [Product & Project](#product--project)
 
 ## Overview
 
