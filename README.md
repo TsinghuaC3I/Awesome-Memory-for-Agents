@@ -48,6 +48,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2025-11 | O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.13593) |
 | 2025-10 | TOM-SWE: User Mental Modeling For Software Engineering Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.21903) |
 | 2025-10 | EvolveR: Self-Evolving LLM Agents through an Experience-Driven Lifecycle | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.16079) |
 | 2025-10 | Improving Code Localization with Repository Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.01003) |
@@ -63,10 +64,11 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | 2025-09 | Adaptive Friend Agent: Personalized Multi-User Memory for Conversational AI | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=wKTwm7ZzDK) |
 | 2025-08 | Orchid: Orchestrating Context Across Creative Workflows with Generative AI | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.19517) |
 | 2025-08 | Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.19828) |
+| 2025-08 | Learn to Memorize: Optimizing LLM-based Agents with Adaptive Memory Framework | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.16629) |
 | 2025-07 | MemOS: A Memory OS for AI System | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.03724) |
 | 2025-07 | Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.22925) |
+| 2025-07 | MIRIX: Multi-Agent Memory System for LLM-Based Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.07957) |
 | 2025-06 | PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.06254) |
-| 2025-06 | SynthesizeMe! Inducing Persona-Guided Prompts for Personalized Reward Models in LLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.05598) |
 | 2025-06 | Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.08098) |
 | 2025-05 | From Single to Multi-Granularity: Toward Long-Term Memory Association and Selection of Conversational Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.19549) |
 | 2025-04 | Mem0: Building production-ready ai agents with scalable long-term memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.19413) |
@@ -89,6 +91,11 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2025-11 | FLEX: Continuous Agent Evolution via Forward Learning from Experience | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.06449) |
+| 2025-11 | Multi-agent In-context Coordination via Decentralized Memory Retrieval | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.10030) |
+| 2025-11 | AgentEvolver: Towards Efficient Self-Evolving Agent System | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.10395) |
+| 2025-11 | Experience-Guided Adaptation of Inference-Time Reasoning Strategies | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.11519) |
+| 2025-11 | WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.12997) |
 | 2025-10 | Alita-G: Self-Evolving Generative Agent for Agent Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.23601) |
 | 2025-10 | Dyna-Mind: Learning to Simulate from Experience for Better AI Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.09577) |
 | 2025-10 | LEGOMem: Modular Procedural Memory for Multi-agent LLM Systems for Workflow Automation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.04851) |
@@ -143,6 +150,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2025-11 | MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.02805) |
 | 2025-10 | Prompt reinforcing for long-term planning of large language models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.05921) |
 | 2025-10 | Learning on the Job: An Experience-Driven Self-Evolving Agent for Long-Horizon Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.08002) |
 | 2025-10 | ACON: Optimizing Context Compression for Long-horizon LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.00615) |
@@ -160,7 +168,6 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | 2025-09 | Don’t Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=NBGlItueYE) |
 | 2025-09 | CEA: Context Engineering Agent for Enhanced Reliability and Sustainability in Deep Research Systems | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=6QUNblHtto) |
 | 2025-09 | The Pensieve Paradigm: Stateful Language Models with Learned Memory Management | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=GymjF88oGQ) |
-| 2025-09 | MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=EWIAx3NgvA) |
 | 2025-09 | Compressed Step Information Memory for End-to-End Agent Foundation Models | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=vUG2hpVJWR) |
 | 2025-09 | Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=UbSUxAK3BI) |
 | 2025-09 | IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction | [![Paper](https://img.shields.io/badge/Paper-6772E5?style=for-the-badge)](https://openreview.net/forum?id=qQ5MZ5Mx7p) |
@@ -200,6 +207,8 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Name | Title | Paper | GitHub |
 | :------: | :------ | :------ | :------: | :------: |
+| 2025-11 | LoCoBench-Agent | LoCoBench-Agent: An Interactive Benchmark for LLM Agents in Long-Context Software Engineering | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.13998) | [![GitHub Stars](https://img.shields.io/github/stars/SalesforceAIResearch/LoCoBench-Agent?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/SalesforceAIResearch/LoCoBench-Agent) |
+| 2025-11 | ConvoMem  | Convomem Benchmark: Why Your First 150 Conversations Don't Need RAG | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.10523) | [![GitHub Stars](https://img.shields.io/github/stars/SalesforceAIResearch/ConvoMem?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/SalesforceAIResearch/ConvoMem) |
 | 2025-08 | StuLife | Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.19005) | [![GitHub Stars](https://img.shields.io/github/stars/ECNU-ICALK/ELL-StuLife?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/ECNU-ICALK/ELL-StuLife) |
 | 2025-07 | MemoryAgentBench | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2507.05257) | [![GitHub Stars](https://img.shields.io/github/stars/HUST-AI-HYZ/MemoryAgentBench?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/HUST-AI-HYZ/MemoryAgentBench) |
 | 2025-06 | StoryBench | StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2506.13356) |  |
@@ -224,3 +233,6 @@ This taxonomy maps directly to the three primary application scenarios that orga
 |  | Memary |  |  | [![Website](https://img.shields.io/badge/website-1F4E79?style=for-the-badge)](https://kingjulio8238.github.io/memarydocs/) | [![GitHub Stars](https://img.shields.io/github/stars/kingjulio8238/Memary?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/kingjulio8238/Memary) |
 |  | OpenMemory |  |  | [![Website](https://img.shields.io/badge/website-1F4E79?style=for-the-badge)](https://openmemory.cavira.app/) | [![GitHub Stars](https://img.shields.io/github/stars/CaviraOSS/OpenMemory?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/CaviraOSS/OpenMemory) |
 |  | MemU |  |  | [![Website](https://img.shields.io/badge/website-1F4E79?style=for-the-badge)](https://memu.pro/) | [![GitHub Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/NevaMind-AI/memU) |
+|  | Memlayer |  |  |  | [![GitHub Stars](https://img.shields.io/github/stars/divagr18/memlayer?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/divagr18/memlayer) |
+|  | Memori |  |  | [![Website](https://img.shields.io/badge/website-1F4E79?style=for-the-badge)](https://memorilabs.ai/) | [![GitHub Stars](https://img.shields.io/github/stars/GibsonAI/Memori?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/GibsonAI/Memori) |
+|  | OpenMemory |  |  | [![Website](https://img.shields.io/badge/website-1F4E79?style=for-the-badge)](https://openmemory.cavira.app/) | [![GitHub Stars](https://img.shields.io/github/stars/CaviraOSS/OpenMemory?style=for-the-badge&logo=github&label=GitHub&color=black)](https://github.com/CaviraOSS/OpenMemory) |
