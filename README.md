@@ -225,6 +225,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | 2024-07 | AriGraph: Learning knowledge graph world models with episodic memory for LLM agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.04363) |
 | 2024-06 | QRMeM: Unleash the Length Limitation through Question then Reflection Memory Mechanism | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2406.13167) |
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Persistent on-chain identity and trust memory for AI agents on Solana. Agent wallets accumulate behavioral history used for autonomy scoring and identity verification. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ### Survey
 
 | Date | Title | Paper | GitHub |
