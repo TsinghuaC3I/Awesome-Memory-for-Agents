@@ -49,6 +49,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | Date | Title | Paper |
 |:------:|:------|:------:|
 | 2026-04 | Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.22085) |
+| 2026-04 | StructMem: Structured Memory for Long-Horizon Behavior in LLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.21748) |
 | 2026-04 | FileGram: Grounding Agent Personalization in File-System Behavioral Traces | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.04901) |
 | 2026-01 | Membox: Weaving Topic Continuity into Long-Range Memory for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.03785) |
 | 2026-01 | Grounding Agent Memory in Contextual Intent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.10702) |
@@ -186,6 +187,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2026-06 | TokenPilot: Cache-Efficient Context Management for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.17016) |
 | 2026-01 | To Retrieve or To Think? An Agentic Approach for Context Evolution | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08747) |
 | 2026-01 | MemoBrain: Executive Memory as an Agentic Brain for Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08079) |
 | 2026-01 | Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.01885) |
