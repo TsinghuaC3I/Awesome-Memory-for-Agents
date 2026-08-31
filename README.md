@@ -188,6 +188,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | Date | Title | Paper |
 |:------:|:------|:------:|
 | 2026-06 | TokenPilot: Cache-Efficient Context Management for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.17016) |
+| 2026-04 | Corpus2Skill: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.14572) |
 | 2026-01 | To Retrieve or To Think? An Agentic Approach for Context Evolution | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08747) |
 | 2026-01 | MemoBrain: Executive Memory as an Agentic Brain for Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08079) |
 | 2026-01 | Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.01885) |
