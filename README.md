@@ -9,6 +9,7 @@ The paper list is maintained by Hongyi Liu, Yu Fu, Kaiyan Zhang, contributed by 
 ## Table of Contents
 
 - [Awesome-Memory-for-Agents](#awesome-memory-for-agents)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
     - [Table of Contents](#table-of-contents)
     - [Overview](#overview)
     - [Paper List](#paper-list)
