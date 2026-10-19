@@ -113,6 +113,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
+| 2026-09 | Recursive Harness Distillation across Agents for Robot Manipulation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33378) |
 | 2026-08 | ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.20920) |
 | 2026-08 | ThinkRetrieve: Retrieval-Augmented Reasoning Traces for Test-Time Scaling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2608.10928) |
 | 2026-01 | Controlled Self-Evolution for Algorithmic Code Optimization | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.07348) |
